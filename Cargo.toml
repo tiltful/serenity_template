@@ -2,7 +2,7 @@
 name = "serenity_template"
 version = "0.1.0"
 edition = "2024"
-authors = ["t1ltxz-gxd <git@t1ltxz.ninja>"]
+authors = ["tiltful <git@tilt.ninja>"]
 description = "Template discord bot using Serenity and Poise with basic hybrid command example."
 license = "MIT"
 repository = "https://github.com/tiltful/serenity_template"
