@@ -57,6 +57,6 @@ Any contributions you make are **greatly appreciated**.
 
 ## ❤️ Credits
 
-Released with ❤️ by [#![type(gxd)] t1ltxz(); <git@t1ltxz.ninja>](https://github.com/tiltful).
+Released with ❤️ by [#![type(gxd)] t1ltxz(); <git@tilt.ninja>](https://github.com/tiltful).
 
-<!-- generated with cargo-generate thanks by <t1ltxz.gxd?> -->
+<!-- generated with cargo-generate thanks by <Tilt?> -->
